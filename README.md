@@ -1,4 +1,7 @@
 # TextVocabularySize
+
+#### [How Much Input Do You Need to Learn the Most Frequent 9,000 Words?](https://eric.ed.gov/?id=EJ1044345)
+
 # Examplo : Harry Potter Books(1-7)
 
 |Tokens|Types|Families|
