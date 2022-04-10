@@ -1,8 +1,27 @@
 # TextVocabularySize
 
+## Build
+```bash
+g++ main.cpp -o TextVocabularySize --std=c++20 -lfmt
+```
+## Dependence
+[LibFmt Download](https://fmt.dev/latest/index.html)
+
+```bash
+sudo apt install libfmt-dev
+```
+## To use
+```bash
+./TextVocabularySize FILENAME.txt
+```
+
 #### [How Much Input Do You Need to Learn the Most Frequent 9,000 Words?](https://eric.ed.gov/?id=EJ1044345)
 
 # Examplo : Harry Potter Books(1-7)
+
+```bash
+./TextVocabularySize HarryPotter1_7.txt
+```
 
 |Tokens|Types|Families|
 |-------|----:|----|
