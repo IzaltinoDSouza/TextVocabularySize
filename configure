@@ -1,0 +1,4 @@
+CXX=g++
+#CXXFLAGS=
+NATIVE=on
+TUNE=generic
